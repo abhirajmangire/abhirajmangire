@@ -110,7 +110,7 @@ A structured, GitHub-ready learning repo built around three hands-on projects: T
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhirajmangire&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
