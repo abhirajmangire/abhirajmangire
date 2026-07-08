@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C850C0&center=true&vCenter=true&width=550&lines=Preparing+for+GATE+CSE+2027;Building+with+Python+%26+Data+Science;Growing+into+Full-Stack+Development;Always+learning+something+new" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="[https://linkedin.com/in/abhirajmangire](https://www.linkedin.com/in/abhiraj-mangire-785817327)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abhirajmangire@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=abhirajmangire&style=for-the-badge&color=C850C0&label=PROFILE+VIEWS" alt="profile views"/>
-</p>
 
 </div>
 
@@ -95,13 +90,7 @@ A structured, GitHub-ready learning repo built around three hands-on projects: T
 `Python` `Pandas` `scikit-learn`
 
 </td>
-<td width="50%" valign="top">
 
-**➕ Your Next Project**
-
-<!-- copy this cell's structure to add a 4th project -->
-
-</td>
 </tr>
 </table>
 
