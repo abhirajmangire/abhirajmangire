@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Abhiraj%20Mangire&fontSize=48&fontColor=fff&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20GATE%20CSE%202027%20Aspirant&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Abhiraj%20Mangire&fontSize=48&fontColor=fff&animation=fadeIn&&desc=Computer%20Engineering%20Student%20%7C%20GATE%20CSE%202027%20Aspirant&descAlignY=65&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C850C0&center=true&vCenter=true&width=550&lines=Preparing+for+GATE+CSE+2027;Building+with+Python+%26+Data+Science;Growing+into+Full-Stack+Development;Always+learning+something+new" alt="Typing SVG" />
