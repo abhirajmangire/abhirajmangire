@@ -7,9 +7,9 @@
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=C850C0&label=PROFILE+VIEWS" alt="profile views"/>
+  <a href="[https://linkedin.com/in/abhirajmangire](https://www.linkedin.com/in/abhiraj-mangire-785817327)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:abhirajmangire@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=abhirajmangire&style=for-the-badge&color=C850C0&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 </div>
